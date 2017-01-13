@@ -2,11 +2,11 @@ Microsoft Virtual Academy
 - Introdução à programação com o Python
 
 Aprender:
-Visto - 01 | Introdução
-Visto - 02 | Exibição de texto
-Visto - 03 | Variáveis de cadeia de caracteres
-Visto - 04 | Armazenamento de números
-Visto - 05 | Como trabalhar com datas e horas
+01 | Introdução
+02 | Exibição de texto
+03 | Variáveis de cadeia de caracteres
+04 | Armazenamento de números
+05 | Como trabalhar com datas e horas
 06 |Tomada de decisões com o código
 07 | Decisões complexas com o código
 08 | Repetição de eventos
