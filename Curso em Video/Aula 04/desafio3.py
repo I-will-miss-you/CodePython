@@ -1,0 +1,6 @@
+print('------ DESAFIO 03 ------')
+a = input('Primeiro número ')
+b = input('Segundo número ')
+print('A soma é ' + a + b)
+print('A soma é ', float(a)+float(b))
+input()
