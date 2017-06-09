@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../CEVPyBot/.idea/CEVPyBot.iml" filepath="$PROJECT_DIR$/../../CEVPyBot/.idea/CEVPyBot.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Curso em Video.iml" filepath="$PROJECT_DIR$/.idea/Curso em Video.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios/.idea/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/.idea/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Guess-the-Number/.idea/Guess the Number.iml" filepath="$PROJECT_DIR$/../Guess-the-Number/.idea/Guess the Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../exercicios_cev/.idea/exercicios_cev.iml" filepath="$PROJECT_DIR$/../../exercicios_cev/.idea/exercicios_cev.iml" />
     </modules>
   </component>
 </project>

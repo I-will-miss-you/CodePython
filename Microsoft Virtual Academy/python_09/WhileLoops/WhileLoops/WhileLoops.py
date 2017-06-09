@@ -1,10 +1,10 @@
-#import turtle
+import turtle
 
-#counter = 0
-#while counter < 4:
-#    turtle.forward(100)
-#    turtle.right(360/4)
-#    counter += 1 
+counter = 0
+while counter < 16:
+    turtle.forward(100)
+    turtle.right(360/18)
+    counter += 1
 
 
 #answer = '0'
