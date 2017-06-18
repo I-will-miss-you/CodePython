@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cd9454d-8172-4dc8-bfaf-4deea8319c1a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Curso Python Básico - SOLYD/aula01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Curso Python Básico - SOLYD/aula02.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Duvidas/d009.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Duvidas/d010.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Curso em Video.iml" afterPath="$PROJECT_DIR$/.idea/Curso em Video.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Duvidas/d004.py" afterPath="$PROJECT_DIR$/Duvidas/d004.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Duvidas/d008.py" afterPath="$PROJECT_DIR$/Duvidas/d008.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pythonSite.py" afterPath="$PROJECT_DIR$/pythonSite.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,31 +24,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="aula01.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Curso Python Básico - SOLYD/aula01.py">
+      <file leaf-file-name="pythonSite.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonSite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aula02.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Curso Python Básico - SOLYD/aula02.py">
+      <file leaf-file-name="d008.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Duvidas/d008.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="61" lean-forward="true" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="d004.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Duvidas/d004.py">
+      <file leaf-file-name="d009.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Duvidas/d009.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="43" selection-end-column="19" />
+            <state relative-caret-position="34">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="d010.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Duvidas/d010.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -68,12 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Aula 07/desafio8.py" />
-        <option value="$PROJECT_DIR$/Aula 07/desafio9.py" />
-        <option value="$PROJECT_DIR$/Aula 07/desafio5.py" />
-        <option value="$PROJECT_DIR$/Aula 07/desafio4.py" />
-        <option value="$PROJECT_DIR$/../../exercicios_cev/desafio001.py" />
-        <option value="$PROJECT_DIR$/../../exercicios_cev/desafio002.py" />
         <option value="$PROJECT_DIR$/../../exercicios_cev/desafio003.py" />
         <option value="$PROJECT_DIR$/../../exercicios_cev/desafio004.py" />
         <option value="$PROJECT_DIR$/../../exercicios_cev/desafio005.py" />
@@ -102,7 +107,6 @@
         <option value="$PROJECT_DIR$/../Guess the Number/imagens.py" />
         <option value="$PROJECT_DIR$/../Guess the Number/main.py" />
         <option value="$PROJECT_DIR$/../Guess-the-Number/main.py" />
-        <option value="$PROJECT_DIR$/pythonSite.py" />
         <option value="$PROJECT_DIR$/Duvidas/d005.py" />
         <option value="$PROJECT_DIR$/../../exercicios_cev/resolucao_prof/resolucao007.py" />
         <option value="$PROJECT_DIR$/Exercicios/ex007.py" />
@@ -112,13 +116,20 @@
         <option value="$PROJECT_DIR$/Duvidas/d006.py" />
         <option value="$PROJECT_DIR$/Duvidas/d007.py" />
         <option value="$PROJECT_DIR$/../../exercicios_cev/resolucao_prof/resolucao009.py" />
-        <option value="$PROJECT_DIR$/Duvidas/d008.py" />
         <option value="$PROJECT_DIR$/../../Exercicios-Python.org.br/0001.py" />
         <option value="$PROJECT_DIR$/../Curso Python Básico - SOLYD/aula01.py" />
         <option value="$PROJECT_DIR$/../Curso Python Básico - SOLYD/aula02.py" />
         <option value="$PROJECT_DIR$/../Curso Python Básico - SOLYD/oh.py" />
         <option value="$USER_HOME$/Downloads/Joguim.py" />
+        <option value="$PROJECT_DIR$/../../Gafanhotos/exercicios_cev/desafios/desafio006.py" />
         <option value="$PROJECT_DIR$/Duvidas/d004.py" />
+        <option value="$USER_HOME$/Downloads/recipe-576817-1.py" />
+        <option value="$USER_HOME$/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/ativ_008.py" />
+        <option value="$PROJECT_DIR$/Teste/teste.py" />
+        <option value="$PROJECT_DIR$/pythonSite.py" />
+        <option value="$PROJECT_DIR$/Duvidas/d008.py" />
+        <option value="$PROJECT_DIR$/Duvidas/d009.py" />
+        <option value="$PROJECT_DIR$/Duvidas/d010.py" />
       </list>
     </option>
   </component>
@@ -163,19 +174,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Curso em Video" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Curso Python Básico - SOLYD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Curso em Video" />
@@ -203,11 +203,20 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Exercicios-Python.org.br" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Gafanhotos" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Exercicios" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Exercicios" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -226,7 +235,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.d004">
+  <component name="RunManager" selected="Python.d010">
+    <configuration default="false" name="d004" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Duvidas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Curso em Video" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Duvidas/d004.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="recipe-576817-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Curso em Video" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/recipe-576817-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="false" name="d008" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,61 +290,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="aula01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Curso Python Básico - SOLYD" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Curso Python Básico - SOLYD" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Curso Python Básico - SOLYD/aula01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="oh" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Curso Python Básico - SOLYD" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Curso Python Básico - SOLYD" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Curso Python Básico - SOLYD/oh.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Joguim" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Curso em Video" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Joguim.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="d004" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="d009" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -311,7 +302,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Curso em Video" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Duvidas/d004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Duvidas/d009.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="d010" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Duvidas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Curso em Video" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Duvidas/d010.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,19 +391,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.d008" />
-      <item index="1" class="java.lang.String" itemvalue="Python.aula01" />
-      <item index="2" class="java.lang.String" itemvalue="Python.oh" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Joguim" />
-      <item index="4" class="java.lang.String" itemvalue="Python.d004" />
+      <item index="0" class="java.lang.String" itemvalue="Python.d004" />
+      <item index="1" class="java.lang.String" itemvalue="Python.recipe-576817-1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.d008" />
+      <item index="3" class="java.lang.String" itemvalue="Python.d009" />
+      <item index="4" class="java.lang.String" itemvalue="Python.d010" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.d004" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Joguim" />
-        <item index="2" class="java.lang.String" itemvalue="Python.oh" />
-        <item index="3" class="java.lang.String" itemvalue="Python.aula01" />
-        <item index="4" class="java.lang.String" itemvalue="Python.d008" />
+        <item index="0" class="java.lang.String" itemvalue="Python.d010" />
+        <item index="1" class="java.lang.String" itemvalue="Python.d009" />
+        <item index="2" class="java.lang.String" itemvalue="Python.d008" />
+        <item index="3" class="java.lang.String" itemvalue="Python.recipe-576817-1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.d004" />
       </list>
     </recent_temporary>
   </component>
@@ -425,18 +434,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22068231" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23187633" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6945976" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6945976" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8566703" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39911798" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -465,19 +473,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../exercicios_cev/desafios/desafio002.py" />
-    <entry file="file://$PROJECT_DIR$/../../exercicios_cev/desafios/desafio006rp.py" />
-    <entry file="file://$PROJECT_DIR$/../../exercicios_cev/desafios/desafio004.py" />
-    <entry file="file://$PROJECT_DIR$/../../exercicios_cev/desafios/desafio005.py" />
-    <entry file="file://$PROJECT_DIR$/../../exercicios_cev/desafios/desafio006.py" />
-    <entry file="file://$PROJECT_DIR$/../../exercicios_cev/desafios/desafio005rp.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/DesafioP04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/DesafioP04 (1).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -570,13 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythonSite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Aula 07/aula07.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -638,13 +626,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../exercicios_cev/resolucao_prof/resolucao008.py" />
     <entry file="file://$PROJECT_DIR$/../../exercicios_cev/resolucao_prof/resolucao009.py" />
-    <entry file="file://$PROJECT_DIR$/Duvidas/d008.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../Exercicios-Python.org.br/0001.py" />
     <entry file="file://$PROJECT_DIR$/../Curso Python Básico - SOLYD/info.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -657,14 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Curso Python Básico - SOLYD/aula01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,14 +660,80 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Curso Python Básico - SOLYD/aula01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Gafanhotos/exercicios_cev/desafios/desafio005.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Duvidas/d004.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="43" selection-end-column="19" />
+        <state relative-caret-position="765">
+          <caret line="135" column="0" lean-forward="false" selection-start-line="135" selection-start-column="0" selection-end-line="141" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/recipe-576817-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1604">
+          <caret line="294" column="4" lean-forward="false" selection-start-line="294" selection-start-column="4" selection-end-line="294" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/ativ_008.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Gafanhotos/exercicios_cev/desafios/desafio006.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Teste/teste.py" />
+    <entry file="file://$PROJECT_DIR$/pythonSite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Duvidas/d008.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="61" lean-forward="true" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Duvidas/d009.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Duvidas/d010.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
