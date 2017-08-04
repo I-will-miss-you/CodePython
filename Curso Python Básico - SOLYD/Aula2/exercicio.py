@@ -11,8 +11,8 @@ idade = input('Idade: ')
 telefone = input('Telefone: ')
 
 print(
-    'Nome:', nome,
-    '\n' 'CPF:', cpf,
-    '\n' 'Endereço:', endereco,
-    '\n' 'Idade:', idade,
-    '\n' 'Telefone:', telefone)
+    '\n Nome:', nome,
+    '\n CPF:', cpf,
+    '\n Endereço:', endereco,
+    '\n Idade:', idade,
+    '\n Telefone:', telefone)
