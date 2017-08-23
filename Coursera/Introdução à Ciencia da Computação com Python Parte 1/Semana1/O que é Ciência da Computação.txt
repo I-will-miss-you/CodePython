@@ -1,0 +1,62 @@
+
+# Ciência da Computação
+    - Uma nova ciência, surgida em meados do Século 20.
+    - Engloba aspectos de várias áreas do conhecimento humano:
+        » Matemática
+        » Engenharia
+        » Ciências Naturais
+        » Arte
+        » Desporto
+
+# Habilidades
+    ## Habilidades mais importates de um Cientista da Computação:
+        - Capacidade de resolver problemas do mundo real computacionalmente
+
+    ## Habilidades mais básicas:
+        - Formular um problema do mundo real em termos computacionais
+        - Elaborar uma solução para esse problema em termos computacionais
+            »  Algoritmo
+        - Escrever um programa em um linguagem de programação que implemente esse Algoritmo
+        - Testar o programa para verificar se ele realmente resolve o problema de forma correta
+    
+    ## Habilidades mais avançadas
+        - Gerenciar software de grande porte composto por muitos programas, vários deles de grande porte.
+        - Construir software para lidar com grandes quantidades de dados 
+            » Bid Data, Mineração de Dados, Aprendizado de Máquina
+        - Gerenciar equipes de desenvolvimento de software.
+        - Comunicar-se com clientes e usuários para entender seus problemas dificuldades e necessidades.
+
+# Conceitos Básicos
+    ## Algoritmos
+        - Uma lista de instruções passo-a-passo para resolver um determinado problema.
+        - Simplificadamente, em Computação o que fazemos é:
+            » Analisar o problema
+            » Criar um algoritmo genérico que resolva esse problema
+            » Escrever um programa que implemente esse algoritmo
+            » Testar o programa para verificar que ele realmente funciona
+    
+    ## Linguagens de Programação
+        - Linguagens formais, precisas e cujas instruções podem ser executadas por um computador.
+            » Linguagem de baixo nível
+                > Linguagem de Máquina
+                > Linguagem de montagem (Assembly)
+            » Linguagens de alto nível
+                > Python
+                > Java
+                > Ruby
+                > C/C++
+                > JavaScript
+                > etc...
+        
+        - Linguagens Interpretadas
+            Código Fonte >>> Interpreyador >>> Saída
+        
+        - Linguagens Compiladas
+            Código Fonte >>> Compilador >>> Código Objeto >>> Executor >>> Saída
+        
+        - Linguagens Interpretadas e Compiladas
+        Exemplo: Java e Python
+            1) Antes de iniciar a execução do programa, um compilador traduz o código-fonte para bytecode (código em bytes)
+            2) Ao iniciar a execução do programa, o interpretador lê os bytecodes um-a-um executando os comandos correspondentes.
+    
+

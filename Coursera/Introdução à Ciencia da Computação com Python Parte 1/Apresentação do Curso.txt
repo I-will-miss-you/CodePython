@@ -1,0 +1,98 @@
+Caros alunos,
+Sejam todos bem vindos!
+
+É com imenso prazer que apresentamos o curso introdutório à Ciência da Computação com Python (Parte 1). Para realizar este curso você não precisa ter nenhuma experiência anterior em programação. Começaremos com conceitos bem básicos fazendo com que você adquira conhecimentos novos a cada semana.
+Aproveite ao máximo. Assista os vídeos quantas vezes desejar e faça com muita atenção os testes de cada vídeo. Além dos vídeos e testes, você encontrará links de acesso ao livro interativo. Lá você encontrará conteúdo teórico e exercícios que poderão ser resolvidos dentro do próprio livro, com retorno imediato sobre a corretude da solução apresentada. Vale a pena investir nas diversas fontes de aprendizado. Elas irão te ajudar a fixar o conteúdo estudado.
+Abaixo você terá uma visão geral do curso, da primeira até a última semana, para se orientar.
+Mais uma vez, “Sejam Bem Vindos!” e “Bom trabalho!” 
+___________________
+
+Semana 1 – Apresentação e Introdução ao Curso 
+SEJAM BEM VINDOS! Esta é a nossa primeira semana de curso. Daremos uma noção do que será o curso e apresentaremos uma visão geral sobre a área de Ciência da Computação e a linguagem Python. Teremos uma introdução à linguagem de programação Python e estudaremos variáveis.
+Videoaulas/Conteúdos: 
+• Vídeo – Introdução 
+O que é Ciência da Computação? (Conhecimentos envolvidos, habilidades básicas e avançadas, conceitos básicos e "Por onde começar?")
+• Vídeo – Introdução ao Python
+Como instalar e abrir o interpretador do Python, alguns operadores aritméticos (**, *, /, ...) e operadores relacionais (==, !=, >, >=, ...)
+• Vídeo – Variáveis e Primeiro Programa
+Site e download do ambiente IDLE, variáveis (definição, nomeclatura, atribuição), comando "print", primeiro programa (criação e execução)
+
+
+Semana 2 – Introdução ao Python 
+Na Semana 2, iremos aprender os tipos de dados existentes e para que serve o comando input e print. Faremos também nosso primeiro programa. A partir desta semana serão disponibilizados também listas de exercícios de programação para você submeter ao Coursera e ter um retorno sobre a corretude do seu código.
+Videoaulas/Conteúdos: 
+• Vídeo – Tipos de Dados
+Tipos de dados, operador aritmético de divisão inteira e resto (//, %), conversão de tipos, comando "len"
+• Vídeo – Entrada de Dados 
+Comando "input", utilizou conversão de tipo, resolução de dois exercícios
+
+Semana 3 – Condicional – if..else 
+Nesta semana estudaremos os desvios condicionais que você poderá implementar em seus programas, usando o comando "if..else". Além disso, estudaremos variáveis e expressões booleanas.
+Videoaulas/Conteúdos: 
+• Vídeo – Expressões Booleanas 
+Tipo de dado "bool", operadores lógicos (and, or, not) e precedência entre operadores relacionais, lógicos e aritméticos
+• Vídeo – Execução condicional 
+If, if..else, módulo math, exemplo
+• Vídeo – Exercício – Cálculo das raízes com a fórmula de Bhaskara 
+Utilização do módulo math e de ifs aninhados
+
+Semana 4 – Repetição - while 
+Começaremos vendo como programar a execução repetida de um mesmo conjunto de instruções por meio de laços (loops). Trabalharemos com indicadores de passagem e aprenderemos a utilizar o depurador (debbuger) que faz o acompanhamento da execução do programa, auxiliando o entendimento e a detecção de possíveis erros.
+Videoaulas/Conteúdos: 
+• Vídeo – Repetição – while 
+Definição e explicação do comando while, 3 exemplos e um desafio
+• Vídeo – Variáveis Booleanas – Indicadores de Passagem 
+Indicadores de Passagem, 2 exemplos e 1 desafio
+• Vídeo – Depurador (Debugger) 
+Como utilizar o depurador em sua forma mais simples
+
+Semana 5 – Funções
+Semana 5, é hora de aprendermos a fazer e utilizar funções. Além disso, teremos uma introdução ao pytest para realização de testes automatizados dos códigos.
+Videoaulas/Conteúdos: 
+• Vídeo – Funções
+Definição, criação e utilização de funções. Escopo de variável.
+• Vídeo – Resolução da tarefa e Testes
+Tipos de erros (sintaxe e de lógica). Nomeação de funções. Definição de testes. Criação e funcionamento de uma função de teste.
+• Vídeo – Testes automatizados – Introdução ao pytest
+Definição e por que criar teste automatizado. Como fazer os testar. Instalação e explicação do funcionamento do pytest. Exemplo de utilização.
+• Vídeo – Música “Melô do teste automatizado” e entrevista com Daniel Cukier
+
+Semana 6 – Depuração e Refatoração
+Veremos nesta semana depuração e refatoração de código.
+Videoaulas/Conteúdos: 
+• Vídeo – Depurador
+Funcionamento no contexto onde há várias funções.
+• Vídeo – Exercício Resolvido - Fórmula de Bhaskara
+Refatoração de código e decomposição de problemas
+
+Semana 7 –Repetições Encaixadas
+Existem situações em que precisamos trabalhar com repetições de repetições, técnica denominada de repetições encaixadas ou laços aninhados. Este conteúdo será visto nesta semana.
+Videoaulas/Conteúdos: 
+• Vídeo - Repetições Encaixadas ou Laços Aninhados
+Mais informações sobre o comando "print". Explicação passo a passo de repetições encaixadas
+• Vídeo – Exercício Resolvido – com Repetições Encaixadas
+Ler uma sequência de números digitados pelo usuário e, para cada número digitado, informar o seu fatorial
+• Vídeo – Exercício Resolvido – com Repetições Encaixadas
+Mostrar a decomposição em fatores primos e a multiplicidade de cada fator de um dado número inteiro
+• Vídeo – Exercício Resolvido – com Repetições Encaixadas
+Informar, para cada valor digitado pelo usuário, se ele é um número primo ou não
+
+
+Semana 8 – Listas
+Conceitos e funcionamento de listas (vetores) e manipulação delas em Python. Além disso, um novo método de repetição será abordado: o for. Assista as videoaulas e resolva os exercícios com muita atenção! Se necessário, assista novamente alguma aula que não tenha compreendido completamente.
+Videoaulas/Conteúdos:
+• Vídeo – Listas
+Definição, sintaxe e índices. Comandos: len, type e append. Criação e manipulação de listas
+• Vídeo – Repetição com “for”
+Explicação do funcionamento dos comandos "for" e "range". Exemplos.
+• Vídeo – Manipulação de Listas
+Fatias de listas, clonando listas, pertinência a uma lista, concatenação (+), repetição (*) e remoção (del) de listas
+
+
+Semana 9 – Mais sobre Listas
+Nesta semana serão apresentados conceitos sobre objetos na memória e um exercício resolvido utilizando listas.
+Videoaulas/Conteúdos: 
+• Vídeo – Objetos na memória
+Definição de objeto e de memória. Objetos e suas referências. Explicação do comando “is”
+• Vídeo – Exercício Resolvido
+Dada uma lista de temperaturas de um mês, informar qual a maior e a menor temperatura do mês

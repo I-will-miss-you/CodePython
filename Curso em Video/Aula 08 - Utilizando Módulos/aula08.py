@@ -50,3 +50,5 @@ print(numInt)
 import emoji
 
 print(emoji.emojize("Olá, Mundo :smile:", use_aliases=True))
+print(emoji.emojize("Olá, Mundo :sunglasses:", use_aliases=True))
+
