@@ -1,5 +1,5 @@
 # Entrada de Dados
-1. Para que serve o comando ```py "input" ``` do Python?
+1. Para que serve o comando ``` "input" ``` do Python?
 - Ler o conteúdo de um arquivo texto
 - Imprimir dados na tela
 - Ler dados digitados pelo usuário  -  Correto 
