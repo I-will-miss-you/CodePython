@@ -1,98 +1,98 @@
 Caros alunos,
 Sejam todos bem vindos!
 
-É com imenso prazer que apresentamos o curso introdutório à Ciência da Computação com Python (Parte 1). Para realizar este curso você não precisa ter nenhuma experiência anterior em programação. Começaremos com conceitos bem básicos fazendo com que você adquira conhecimentos novos a cada semana.
-Aproveite ao máximo. Assista os vídeos quantas vezes desejar e faça com muita atenção os testes de cada vídeo. Além dos vídeos e testes, você encontrará links de acesso ao livro interativo. Lá você encontrará conteúdo teórico e exercícios que poderão ser resolvidos dentro do próprio livro, com retorno imediato sobre a corretude da solução apresentada. Vale a pena investir nas diversas fontes de aprendizado. Elas irão te ajudar a fixar o conteúdo estudado.
-Abaixo você terá uma visão geral do curso, da primeira até a última semana, para se orientar.
-Mais uma vez, “Sejam Bem Vindos!” e “Bom trabalho!” 
+Ã‰ com imenso prazer que apresentamos o curso introdutÃ³rio Ã  CiÃªncia da ComputaÃ§Ã£o com Python (Parte 1). Para realizar este curso vocÃª nÃ£o precisa ter nenhuma experiÃªncia anterior em programaÃ§Ã£o. ComeÃ§aremos com conceitos bem bÃ¡sicos fazendo com que vocÃª adquira conhecimentos novos a cada semana.
+Aproveite ao mÃ¡ximo. Assista os vÃ­deos quantas vezes desejar e faÃ§a com muita atenÃ§Ã£o os testes de cada vÃ­deo. AlÃ©m dos vÃ­deos e testes, vocÃª encontrarÃ¡ links de acesso ao livro interativo. LÃ¡ vocÃª encontrarÃ¡ conteÃºdo teÃ³rico e exercÃ­cios que poderÃ£o ser resolvidos dentro do prÃ³prio livro, com retorno imediato sobre a corretude da soluÃ§Ã£o apresentada. Vale a pena investir nas diversas fontes de aprendizado. Elas irÃ£o te ajudar a fixar o conteÃºdo estudado.
+Abaixo vocÃª terÃ¡ uma visÃ£o geral do curso, da primeira atÃ© a Ãºltima semana, para se orientar.
+Mais uma vez, â€œSejam Bem Vindos!â€ e â€œBom trabalho!â€ 
 ___________________
 
-Semana 1 – Apresentação e Introdução ao Curso 
-SEJAM BEM VINDOS! Esta é a nossa primeira semana de curso. Daremos uma noção do que será o curso e apresentaremos uma visão geral sobre a área de Ciência da Computação e a linguagem Python. Teremos uma introdução à linguagem de programação Python e estudaremos variáveis.
-Videoaulas/Conteúdos: 
-• Vídeo – Introdução 
-O que é Ciência da Computação? (Conhecimentos envolvidos, habilidades básicas e avançadas, conceitos básicos e "Por onde começar?")
-• Vídeo – Introdução ao Python
-Como instalar e abrir o interpretador do Python, alguns operadores aritméticos (**, *, /, ...) e operadores relacionais (==, !=, >, >=, ...)
-• Vídeo – Variáveis e Primeiro Programa
-Site e download do ambiente IDLE, variáveis (definição, nomeclatura, atribuição), comando "print", primeiro programa (criação e execução)
+Semana 1 â€“ ApresentaÃ§Ã£o e IntroduÃ§Ã£o ao Curso 
+SEJAM BEM VINDOS! Esta Ã© a nossa primeira semana de curso. Daremos uma noÃ§Ã£o do que serÃ¡ o curso e apresentaremos uma visÃ£o geral sobre a Ã¡rea de CiÃªncia da ComputaÃ§Ã£o e a linguagem Python. Teremos uma introduÃ§Ã£o Ã  linguagem de programaÃ§Ã£o Python e estudaremos variÃ¡veis.
+Videoaulas/ConteÃºdos: 
+â€¢ VÃ­deo â€“ IntroduÃ§Ã£o 
+O que Ã© CiÃªncia da ComputaÃ§Ã£o? (Conhecimentos envolvidos, habilidades bÃ¡sicas e avanÃ§adas, conceitos bÃ¡sicos e "Por onde comeÃ§ar?")
+â€¢ VÃ­deo â€“ IntroduÃ§Ã£o ao Python
+Como instalar e abrir o interpretador do Python, alguns operadores aritmÃ©ticos (**, *, /, ...) e operadores relacionais (==, !=, >, >=, ...)
+â€¢ VÃ­deo â€“ VariÃ¡veis e Primeiro Programa
+Site e download do ambiente IDLE, variÃ¡veis (definiÃ§Ã£o, nomeclatura, atribuiÃ§Ã£o), comando "print", primeiro programa (criaÃ§Ã£o e execuÃ§Ã£o)
 
 
-Semana 2 – Introdução ao Python 
-Na Semana 2, iremos aprender os tipos de dados existentes e para que serve o comando input e print. Faremos também nosso primeiro programa. A partir desta semana serão disponibilizados também listas de exercícios de programação para você submeter ao Coursera e ter um retorno sobre a corretude do seu código.
-Videoaulas/Conteúdos: 
-• Vídeo – Tipos de Dados
-Tipos de dados, operador aritmético de divisão inteira e resto (//, %), conversão de tipos, comando "len"
-• Vídeo – Entrada de Dados 
-Comando "input", utilizou conversão de tipo, resolução de dois exercícios
+Semana 2 â€“ IntroduÃ§Ã£o ao Python 
+Na Semana 2, iremos aprender os tipos de dados existentes e para que serve o comando input e print. Faremos tambÃ©m nosso primeiro programa. A partir desta semana serÃ£o disponibilizados tambÃ©m listas de exercÃ­cios de programaÃ§Ã£o para vocÃª submeter ao Coursera e ter um retorno sobre a corretude do seu cÃ³digo.
+Videoaulas/ConteÃºdos: 
+â€¢ VÃ­deo â€“ Tipos de Dados
+Tipos de dados, operador aritmÃ©tico de divisÃ£o inteira e resto (//, %), conversÃ£o de tipos, comando "len"
+â€¢ VÃ­deo â€“ Entrada de Dados 
+Comando "input", utilizou conversÃ£o de tipo, resoluÃ§Ã£o de dois exercÃ­cios
 
-Semana 3 – Condicional – if..else 
-Nesta semana estudaremos os desvios condicionais que você poderá implementar em seus programas, usando o comando "if..else". Além disso, estudaremos variáveis e expressões booleanas.
-Videoaulas/Conteúdos: 
-• Vídeo – Expressões Booleanas 
-Tipo de dado "bool", operadores lógicos (and, or, not) e precedência entre operadores relacionais, lógicos e aritméticos
-• Vídeo – Execução condicional 
-If, if..else, módulo math, exemplo
-• Vídeo – Exercício – Cálculo das raízes com a fórmula de Bhaskara 
-Utilização do módulo math e de ifs aninhados
+Semana 3 â€“ Condicional â€“ if..else 
+Nesta semana estudaremos os desvios condicionais que vocÃª poderÃ¡ implementar em seus programas, usando o comando "if..else". AlÃ©m disso, estudaremos variÃ¡veis e expressÃµes booleanas.
+Videoaulas/ConteÃºdos: 
+â€¢ VÃ­deo â€“ ExpressÃµes Booleanas 
+Tipo de dado "bool", operadores lÃ³gicos (and, or, not) e precedÃªncia entre operadores relacionais, lÃ³gicos e aritmÃ©ticos
+â€¢ VÃ­deo â€“ ExecuÃ§Ã£o condicional 
+If, if..else, mÃ³dulo math, exemplo
+â€¢ VÃ­deo â€“ ExercÃ­cio â€“ CÃ¡lculo das raÃ­zes com a fÃ³rmula de Bhaskara 
+UtilizaÃ§Ã£o do mÃ³dulo math e de ifs aninhados
 
-Semana 4 – Repetição - while 
-Começaremos vendo como programar a execução repetida de um mesmo conjunto de instruções por meio de laços (loops). Trabalharemos com indicadores de passagem e aprenderemos a utilizar o depurador (debbuger) que faz o acompanhamento da execução do programa, auxiliando o entendimento e a detecção de possíveis erros.
-Videoaulas/Conteúdos: 
-• Vídeo – Repetição – while 
-Definição e explicação do comando while, 3 exemplos e um desafio
-• Vídeo – Variáveis Booleanas – Indicadores de Passagem 
+Semana 4 â€“ RepetiÃ§Ã£o - while 
+ComeÃ§aremos vendo como programar a execuÃ§Ã£o repetida de um mesmo conjunto de instruÃ§Ãµes por meio de laÃ§os (loops). Trabalharemos com indicadores de passagem e aprenderemos a utilizar o depurador (debbuger) que faz o acompanhamento da execuÃ§Ã£o do programa, auxiliando o entendimento e a detecÃ§Ã£o de possÃ­veis erros.
+Videoaulas/ConteÃºdos: 
+â€¢ VÃ­deo â€“ RepetiÃ§Ã£o â€“ while 
+DefiniÃ§Ã£o e explicaÃ§Ã£o do comando while, 3 exemplos e um desafio
+â€¢ VÃ­deo â€“ VariÃ¡veis Booleanas â€“ Indicadores de Passagem 
 Indicadores de Passagem, 2 exemplos e 1 desafio
-• Vídeo – Depurador (Debugger) 
+â€¢ VÃ­deo â€“ Depurador (Debugger) 
 Como utilizar o depurador em sua forma mais simples
 
-Semana 5 – Funções
-Semana 5, é hora de aprendermos a fazer e utilizar funções. Além disso, teremos uma introdução ao pytest para realização de testes automatizados dos códigos.
-Videoaulas/Conteúdos: 
-• Vídeo – Funções
-Definição, criação e utilização de funções. Escopo de variável.
-• Vídeo – Resolução da tarefa e Testes
-Tipos de erros (sintaxe e de lógica). Nomeação de funções. Definição de testes. Criação e funcionamento de uma função de teste.
-• Vídeo – Testes automatizados – Introdução ao pytest
-Definição e por que criar teste automatizado. Como fazer os testar. Instalação e explicação do funcionamento do pytest. Exemplo de utilização.
-• Vídeo – Música “Melô do teste automatizado” e entrevista com Daniel Cukier
+Semana 5 â€“ FunÃ§Ãµes
+Semana 5, Ã© hora de aprendermos a fazer e utilizar funÃ§Ãµes. AlÃ©m disso, teremos uma introduÃ§Ã£o ao pytest para realizaÃ§Ã£o de testes automatizados dos cÃ³digos.
+Videoaulas/ConteÃºdos: 
+â€¢ VÃ­deo â€“ FunÃ§Ãµes
+DefiniÃ§Ã£o, criaÃ§Ã£o e utilizaÃ§Ã£o de funÃ§Ãµes. Escopo de variÃ¡vel.
+â€¢ VÃ­deo â€“ ResoluÃ§Ã£o da tarefa e Testes
+Tipos de erros (sintaxe e de lÃ³gica). NomeaÃ§Ã£o de funÃ§Ãµes. DefiniÃ§Ã£o de testes. CriaÃ§Ã£o e funcionamento de uma funÃ§Ã£o de teste.
+â€¢ VÃ­deo â€“ Testes automatizados â€“ IntroduÃ§Ã£o ao pytest
+DefiniÃ§Ã£o e por que criar teste automatizado. Como fazer os testar. InstalaÃ§Ã£o e explicaÃ§Ã£o do funcionamento do pytest. Exemplo de utilizaÃ§Ã£o.
+â€¢ VÃ­deo â€“ MÃºsica â€œMelÃ´ do teste automatizadoâ€ e entrevista com Daniel Cukier
 
-Semana 6 – Depuração e Refatoração
-Veremos nesta semana depuração e refatoração de código.
-Videoaulas/Conteúdos: 
-• Vídeo – Depurador
-Funcionamento no contexto onde há várias funções.
-• Vídeo – Exercício Resolvido - Fórmula de Bhaskara
-Refatoração de código e decomposição de problemas
+Semana 6 â€“ DepuraÃ§Ã£o e RefatoraÃ§Ã£o
+Veremos nesta semana depuraÃ§Ã£o e refatoraÃ§Ã£o de cÃ³digo.
+Videoaulas/ConteÃºdos: 
+â€¢ VÃ­deo â€“ Depurador
+Funcionamento no contexto onde hÃ¡ vÃ¡rias funÃ§Ãµes.
+â€¢ VÃ­deo â€“ ExercÃ­cio Resolvido - FÃ³rmula de Bhaskara
+RefatoraÃ§Ã£o de cÃ³digo e decomposiÃ§Ã£o de problemas
 
-Semana 7 –Repetições Encaixadas
-Existem situações em que precisamos trabalhar com repetições de repetições, técnica denominada de repetições encaixadas ou laços aninhados. Este conteúdo será visto nesta semana.
-Videoaulas/Conteúdos: 
-• Vídeo - Repetições Encaixadas ou Laços Aninhados
-Mais informações sobre o comando "print". Explicação passo a passo de repetições encaixadas
-• Vídeo – Exercício Resolvido – com Repetições Encaixadas
-Ler uma sequência de números digitados pelo usuário e, para cada número digitado, informar o seu fatorial
-• Vídeo – Exercício Resolvido – com Repetições Encaixadas
-Mostrar a decomposição em fatores primos e a multiplicidade de cada fator de um dado número inteiro
-• Vídeo – Exercício Resolvido – com Repetições Encaixadas
-Informar, para cada valor digitado pelo usuário, se ele é um número primo ou não
-
-
-Semana 8 – Listas
-Conceitos e funcionamento de listas (vetores) e manipulação delas em Python. Além disso, um novo método de repetição será abordado: o for. Assista as videoaulas e resolva os exercícios com muita atenção! Se necessário, assista novamente alguma aula que não tenha compreendido completamente.
-Videoaulas/Conteúdos:
-• Vídeo – Listas
-Definição, sintaxe e índices. Comandos: len, type e append. Criação e manipulação de listas
-• Vídeo – Repetição com “for”
-Explicação do funcionamento dos comandos "for" e "range". Exemplos.
-• Vídeo – Manipulação de Listas
-Fatias de listas, clonando listas, pertinência a uma lista, concatenação (+), repetição (*) e remoção (del) de listas
+Semana 7 â€“RepetiÃ§Ãµes Encaixadas
+Existem situaÃ§Ãµes em que precisamos trabalhar com repetiÃ§Ãµes de repetiÃ§Ãµes, tÃ©cnica denominada de repetiÃ§Ãµes encaixadas ou laÃ§os aninhados. Este conteÃºdo serÃ¡ visto nesta semana.
+Videoaulas/ConteÃºdos: 
+â€¢ VÃ­deo - RepetiÃ§Ãµes Encaixadas ou LaÃ§os Aninhados
+Mais informaÃ§Ãµes sobre o comando "print". ExplicaÃ§Ã£o passo a passo de repetiÃ§Ãµes encaixadas
+â€¢ VÃ­deo â€“ ExercÃ­cio Resolvido â€“ com RepetiÃ§Ãµes Encaixadas
+Ler uma sequÃªncia de nÃºmeros digitados pelo usuÃ¡rio e, para cada nÃºmero digitado, informar o seu fatorial
+â€¢ VÃ­deo â€“ ExercÃ­cio Resolvido â€“ com RepetiÃ§Ãµes Encaixadas
+Mostrar a decomposiÃ§Ã£o em fatores primos e a multiplicidade de cada fator de um dado nÃºmero inteiro
+â€¢ VÃ­deo â€“ ExercÃ­cio Resolvido â€“ com RepetiÃ§Ãµes Encaixadas
+Informar, para cada valor digitado pelo usuÃ¡rio, se ele Ã© um nÃºmero primo ou nÃ£o
 
 
-Semana 9 – Mais sobre Listas
-Nesta semana serão apresentados conceitos sobre objetos na memória e um exercício resolvido utilizando listas.
-Videoaulas/Conteúdos: 
-• Vídeo – Objetos na memória
-Definição de objeto e de memória. Objetos e suas referências. Explicação do comando “is”
-• Vídeo – Exercício Resolvido
-Dada uma lista de temperaturas de um mês, informar qual a maior e a menor temperatura do mês
+Semana 8 â€“ Listas
+Conceitos e funcionamento de listas (vetores) e manipulaÃ§Ã£o delas em Python. AlÃ©m disso, um novo mÃ©todo de repetiÃ§Ã£o serÃ¡ abordado: o for. Assista as videoaulas e resolva os exercÃ­cios com muita atenÃ§Ã£o! Se necessÃ¡rio, assista novamente alguma aula que nÃ£o tenha compreendido completamente.
+Videoaulas/ConteÃºdos:
+â€¢ VÃ­deo â€“ Listas
+DefiniÃ§Ã£o, sintaxe e Ã­ndices. Comandos: len, type e append. CriaÃ§Ã£o e manipulaÃ§Ã£o de listas
+â€¢ VÃ­deo â€“ RepetiÃ§Ã£o com â€œforâ€
+ExplicaÃ§Ã£o do funcionamento dos comandos "for" e "range". Exemplos.
+â€¢ VÃ­deo â€“ ManipulaÃ§Ã£o de Listas
+Fatias de listas, clonando listas, pertinÃªncia a uma lista, concatenaÃ§Ã£o (+), repetiÃ§Ã£o (*) e remoÃ§Ã£o (del) de listas
+
+
+Semana 9 â€“ Mais sobre Listas
+Nesta semana serÃ£o apresentados conceitos sobre objetos na memÃ³ria e um exercÃ­cio resolvido utilizando listas.
+Videoaulas/ConteÃºdos: 
+â€¢ VÃ­deo â€“ Objetos na memÃ³ria
+DefiniÃ§Ã£o de objeto e de memÃ³ria. Objetos e suas referÃªncias. ExplicaÃ§Ã£o do comando â€œisâ€
+â€¢ VÃ­deo â€“ ExercÃ­cio Resolvido
+Dada uma lista de temperaturas de um mÃªs, informar qual a maior e a menor temperatura do mÃªs
