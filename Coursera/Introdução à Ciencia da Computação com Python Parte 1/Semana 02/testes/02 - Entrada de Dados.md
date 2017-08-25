@@ -26,15 +26,14 @@ x = input ("Qual a sua idade?")
 - Compara se o valor armazenado na variável x é igual a idade informada pelo usuário
 
 4. O que será impresso pelo trecho de programa abaixo?
-<br>
-<code>
-<br>a = 10
-<br>b = 20
-<br>c = a
-<br>b = c
-<br>a = b
-<br>print(a,b,c)
-</code>
+```py
+a = 10
+b = 20
+c = a
+b = c
+a = b
+print(a,b,c)
+```
 - 10 10 10  -  Correto 
 - 0 10 20
 - 20 10 0
@@ -42,28 +41,26 @@ x = input ("Qual a sua idade?")
 - 10 20 10
 
 5. O que será impresso pelo trecho de programa abaixo?
-<br>
-<code>
-<br>a = 10
-<br>b = 5
-<br>c = a + b
-<br>b = 20
-<br>print(a,b,c)
-</code>
+```py
+a = 10
+b = 5
+c = a + b
+b = 20
+print(a,b,c)
+```
 - 15 10 20
 - 10 20 15  -  Correto 
 - 20 10 20
 - 5 10 20
 
 6. O que será impresso pelo trecho de programa abaixo? 
-<br>
-<code>
-<br>A = 10
-<br>a = 20
-<br>a = 2 * a
-<br>A = a + A
-<br>print(a)
-</code>
+```py
+A = 10
+a = 20
+a = 2 * a
+A = a + A
+print(a)
+```
 - 50
 - 40  -  Correto 
 - 20
@@ -72,10 +69,9 @@ x = input ("Qual a sua idade?")
 
 
 7. O que será impresso ao executar o seguinte comando? 
-<br>
-<code>
-<br>print ("olá" 'mundo')
-</code>
+```py
+print ("olá" 'mundo')
+```
 - Em uma única linha, o texto: olá mundo
 - Em uma única linha, o texto: olámundo  -  Correto 
 - olá em uma linha e mundo na próxima linha
