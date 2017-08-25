@@ -6,12 +6,11 @@
 - **
 
 2. Como armazenar em uma nova variável a quantidade total de caracteres das três variáveis abaixo? 
-    <br>
-    <code>
-    <br>cumprimento = "Olá"
-    <br>nome = "Ana"
-    <br>turno = "bom dia"
-    </code>
+```py
+cumprimento = "Olá"
+nome = "Ana"
+turno = "bom dia"
+```
 - tamanho = len(cumprimento) + len(nome) + len(turno)  -  Correto 
 - print (len(cumprimento + nome + turno))
 - len(cumprimento) + len(nome) + len(turno) 
