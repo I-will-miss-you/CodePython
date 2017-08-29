@@ -5,7 +5,7 @@ import json
 #    Foi usada a API: www.omdbapi.com
 #
 
-key = '&apikey=plsBanMe'
+key = '&apikey=plzBanMe' # deve ir ao site http://www.omdbapi.com/ e pegar uma nova key
 
 r = '\033[31m'  # fonte vermelha (red)
 n = '\033[m'  # Cor 'normal'
