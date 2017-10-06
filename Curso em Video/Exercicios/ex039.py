@@ -26,7 +26,7 @@ elif idade < 18:
     print('Ainda falta {} anos para o alistamento'.format(anos_em_falta))
     ano_alistamento = ano_atual + anos_em_falta
     print('O seu alistamento será em {}'.format(ano_alistamento))
-else:
+else: # idade > 18
     anos_passados = idade - 18
     print('Você já deveria ter se alistado há {} anos.'.format(anos_passados))
     ano_alistamento = ano_atual - anos_passados
