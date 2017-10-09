@@ -19,4 +19,3 @@ elif média < 5:
     print('O aluno está REPROVADO.')
 else:
     print('O aluno está APROVADO.')
-    
