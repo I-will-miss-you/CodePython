@@ -1,0 +1,36 @@
+{% extends 'base.html' %} {% block title %}{{ super() }} - Index {% endblock %} {% block content %}
+
+
+<form action="" method="POST">
+    {{ form.csrf_token }}
+    <h2><span class="badge badge-dark">LOGIN</span></h2>
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label>Username</label> {{ form.username(class="form-control", placeholder="username") }}
+            {% if form.errors.username %}
+            <div class="alert alert-danger" role="alert">
+            {{ form.errors.username[0] }}
+            </div>
+            {% endif %}
+        </div>
+        <div class="form-group col-md-6">
+            <label>Password</label> {{ form.password(class="form-control") }}
+            {% if form.errors.password %}
+            <div class="alert alert-danger" role="alert">
+            {{ form.errors.password[0] }}
+            </div>
+            {% endif %}
+        </div>
+        <div class="checkbox col-md-12">
+            <label>
+                {{ form.remember_me }} Remember me
+            </label>
+        </div>
+        <button type="button col-md-12" class="btn btn-primary" data-toggle="tooltip" data-placement="right" title="Submit">
+            Submit
+        </button>
+    </div>
+</form>
+
+
+{% endblock %}

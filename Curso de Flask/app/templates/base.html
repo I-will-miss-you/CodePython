@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Code36u4r60">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>{% block title %}Curso de Flask{% endblock %}</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/narrow-jumbotron.css') }}">
+
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="header clearfix">
+            <nav>
+                <ul class="nav nav-pills float-right">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">Home
+                            <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">About</a>
+                    </li>
+                    {% if current_user.is_authenticated %}
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('logout') }}">Logout</a>
+                    </li>
+                    {% else %}
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('login') }}">Login</a>
+                    </li>
+                    {% endif %}
+                </ul>
+            </nav>
+            <h3 class="text-muted">Project name</h3>
+        </div>
+
+
+        <title>My Application</title>
+        {% with messages = get_flashed_messages() %} {% if messages %}
+        <div class="alert alert-warning">
+            <ul class=flashes>
+                {% for message in messages %}
+                <li>{{ message }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %} {% endwith %} {% block body %}{% endblock %} {% block content %} {% endblock %}
+
+        <footer class="footer">
+            <p>&copy; Company 2017</p>
+        </footer>
+
+    </div>
+    <!-- /container -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+
+</body>
+
+</html>
