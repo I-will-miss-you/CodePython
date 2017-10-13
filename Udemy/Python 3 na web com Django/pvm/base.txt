@@ -1,0 +1,21 @@
+>> Criar Virtualenv
+
+>> Instalar o django
+
+https://www.djangoproject.com/download/
+
+>> Criar a Base de Dados
+
+python manage.py startapp core
+
+	> python manage.py makemigrations
+	> python manage.py migrate
+
+python manage.py startapp courses
+
+
+>> Criar Super User - admin
+
+python manage.py createsuperuser
+
+
