@@ -12,17 +12,16 @@ peso = float(input('Qual é o seu peso? (Kg) '))
 altura = float(input('Qual é o seu peso? (m) '))
 
 imc = peso / (altura ** 2)
-print(f'O IMC dessa pessoa é de {imc:.1f}')
+print('O IMC dessa pessoa é de {:.1f}'.format(imc))
 
 if imc < 18.5:
-    result = "Abaixo do Peso"
-elif imc < 25:
-    result = "Peso Ideal"
-elif imc < 30:
-    result = "Sobrepeso"
-elif imc < 40:
-    result = "Obesidade"
-else:
-    result = "Obesidade mórbida"
+    print('Você está ABAIXO DO PESO normal')
+elif 18.5 <= imc < 25:
+    print('PARABÉNS, você está na faixa de PESO NORMAL')
+elif 25 <= imc < 30:
+    print('Você está em SOBREPESO')
+elif 30 <= imc < 40:
+    print('Você está em OBESIDADE')
+elif imc >= 40:
+    print('Você está em SOBREPESO MÓRBIDA, cuidado!')
 
-print(f'Você esta: {result}.')
